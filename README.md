@@ -4,7 +4,7 @@ This repository contains my first demo site created using Bootstrap. The site sh
 
 ## Live Demo
 
-Check out the live demo of the site [here](https://your-demo-site-url.com).
+Check out the live demo of the site [here]( https://rushi128.github.io/MIT/).
 
 ## Technologies Used
 
@@ -26,4 +26,4 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/rushi128/MIT.git
